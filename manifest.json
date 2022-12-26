@@ -3,7 +3,7 @@
     "background_color": "#ffffff",
     "display": "standalone",
     "scope": "/",
-    "start_url": "https://luck-one9.github.io/booster.github.io/",
+    "start_url": "/booster.github.io/",
     "name": "Booster App ",
     "short_name": "Booster",
     "icons": [
