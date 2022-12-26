@@ -3,7 +3,7 @@
     "background_color": "#ffffff",
     "display": "browser",
     "scope": "/",
-    "start_url": "/",
+    "start_url": "/booster.github.io/",
     "name": "Booster App ",
     "short_name": "Booster",
     "icons": [
