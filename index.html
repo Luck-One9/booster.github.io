@@ -11,7 +11,11 @@
       navigator.serviceWorker.register('/booster.github.io/generate-sw.js');
     }
     
-    if(window.matchMedia('(display-mode: standalone)').matches) return true;
+    if(window.matchMedia('(display-mode: standalone)').matches){
+      return true
+    }else{
+      alert("No installed");
+    }
   </script>
 </body>
 </html>
