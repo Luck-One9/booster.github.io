@@ -12,8 +12,10 @@
     }
     
     if(window.matchMedia('(display-mode: standalone)').matches){
-      return true
+      console.log("Installed!");
+      return true;
     }else{
+      console.log("No installed!");
       alert("No installed");
     }
   </script>
